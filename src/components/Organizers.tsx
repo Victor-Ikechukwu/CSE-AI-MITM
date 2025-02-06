@@ -23,7 +23,7 @@ const Organizers = () => {
       image: 'https://media-hosting.imagekit.io//21194e73223a4d8e/Screenshot%202025-01-29%20142033.png?Expires=1832748685&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1lhwyfQa5LB6N3tPpsMOb2E87UgVgnp0veKeXo55oSpCj1rt3ix01v9dqLSn5IWDjErdhtwwAs-q0r4pZ4m-SBUqMXMhHMouB2lfT1xuBIYTGKMK6Ug9jqZeL-L0OSy-0bYU0nSe~Q1Ips2J2Td~eptQZPJ-ifelIi3-wXFwehouMZ8IPYl6~1ekcRwvfDVTQ4-1t~SRYRbg4G5PuRcXTYIF5Ph1~6IieJFibpmLU~VGsG~gtbk73vfSm3H~QYviCl0BDRLOGhp0VinvRbT1eSCtKDc74EKSTn6K1hgiDww~2TfynhSLGWAcrAUzbX-j1r2d7u1p6OyNqKuvO3jEbQ__',
     },
     {
-      name: 'Dr. Victor A. I.',
+      name: 'Dr. Victor Agughasi Ike.',
       role: 'Program Coordinator',
       image: 'https://media-hosting.imagekit.io//6a953e47d7df45c8/passport.jpg?Expires=1833458311&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PlyPGOmTqQ2710rNWhcyAFg-QHXVOQq5M4164UGED6uafW955xsr7o94kJQJBCHRn9AbX9QH3tPMLLuYy9l5U92QzPW6VnNsNGnfIH9L-Cr5jlMOnyfSBIcwU6j9wmAefD2qMIRTbOtFvFpaqNnmZBFFT--1AnY8UestZqGUYDz0BJ2T49HcAwwyDkaYKceb2-kIGwegx5HlrrM5vhinzcoXi-Ldb6CVN4acByHynRxv0UMBRQkeLI93aNOnmAkajI61sV03Kd7fVYB8Sv1lBtePAo7eGf4QLAS6eN9sfuH~e4yeyS7A~v5Z4bvSYHwnaB3PaLc2prvJvIz6bsuJzg__',
     },
