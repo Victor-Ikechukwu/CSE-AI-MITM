@@ -11,7 +11,7 @@ const Schedule = () => {
         {
           time: '10:00 AM - 11:00 AM',
           topic: 'Presidential Address',
-          speaker: 'Dr. S. Muruli'
+          speaker: 'Dr. S. Murali'
         },
         {
           time: '11:15 AM - 11:45 AM',
