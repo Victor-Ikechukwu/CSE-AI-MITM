@@ -121,7 +121,7 @@ const About = () => {
                 </li>
                 <li className="flex items-start">
                   <span className="w-2 h-2 mt-2 mr-2 bg-blue-600 rounded-full"></span>
-                  <span>To enhance research and entrepreneurship in associated domains and to facilitate real time problem solving.</span>
+                  <span>To enhance research and entrepreneurship in associated domains and to facilitate real-time problem solving.</span>
                 </li>
               </ul>
             </div>
